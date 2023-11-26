@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "756586477961",
+    "project_id": "login-register-firebase-51bc0",
+    "storage_bucket": "login-register-firebase-51bc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756586477961:android:1b30297a3e29c694ff8958",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756586477961-9mtafu9u0vhg01mcbngh7pefhclt80ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw-3umnq18rB2KbuGIn4ASy8_OGTKpkm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756586477961-9mtafu9u0vhg01mcbngh7pefhclt80ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756586477961:android:3f54642d0f7b406fff8958",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_ai_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756586477961-9mtafu9u0vhg01mcbngh7pefhclt80ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw-3umnq18rB2KbuGIn4ASy8_OGTKpkm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756586477961-9mtafu9u0vhg01mcbngh7pefhclt80ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756586477961:android:3f6cac6981059a29ff8958",
+        "android_client_info": {
+          "package_name": "com.example.testmathieu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756586477961-9mtafu9u0vhg01mcbngh7pefhclt80ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw-3umnq18rB2KbuGIn4ASy8_OGTKpkm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756586477961-9mtafu9u0vhg01mcbngh7pefhclt80ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756586477961:android:cff556007ebed594ff8958",
+        "android_client_info": {
+          "package_name": "ma.emsi.login_register_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756586477961-9mtafu9u0vhg01mcbngh7pefhclt80ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw-3umnq18rB2KbuGIn4ASy8_OGTKpkm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756586477961-9mtafu9u0vhg01mcbngh7pefhclt80ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756586477961:android:cddffcb1d3d3f5dcff8958",
+        "android_client_info": {
+          "package_name": "ma.imadfaouzi.finalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756586477961-9mtafu9u0vhg01mcbngh7pefhclt80ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw-3umnq18rB2KbuGIn4ASy8_OGTKpkm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756586477961-9mtafu9u0vhg01mcbngh7pefhclt80ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
